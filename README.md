@@ -1,4 +1,3 @@
-[![MasterHead](https://www.bing.com/th/id/OGC.4fae230a415b0a3fb12ea09ed6d51616?pid=1.7&rurl=https%3a%2f%2fraw.githubusercontent.com%2fKShukhrat%2fKShukhrat%2fmain%2fassets%2fheader_gif.gif&ehk=WTlxefCIKmAI6ob3UaeT01er6HCzzU31V%2f356OzTqdI%3d)](https://github.com/RAJAY04)
 <h1 align="center">Hi 👋, I'm R Ajay Prabhu</h1>
 <h3 align="center">A passionate backend developer from India. Looking forward to collaborating and sharing knowledge with the community!</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
